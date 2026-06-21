@@ -1,43 +1,61 @@
-## VertexMind Frontend Internship - Mission 3
+# VertexMind React Frontend Project
 
- ## Project Description:
+## Project Overview:
 
-This project is developed as part of the VertexMind Frontend Internship Mission 3.
+This project is developed as part of the VertexMind Frontend Internship Mission 3 and Mission 4.
 
-The application is built using React and Vite with reusable components, routing, and state management.
+It is a React-based web application built using Vite with reusable components, routing, state management, and Vercel deployment.
 
 ## Features:
 
-- React + Vite setup
-- Reusable components
+- React + Vite application
+- Reusable React components
   - Navbar
   - Card
   - Footer
-- Multiple pages using React Router
+- Multiple pages
   - Home
   - About
-  - Project Detail
-- Navigation between pages
-- Like button using useState
-- Responsive styling using CSS
+  - Projects
+- Navigation using React Router
+- Interactive Like button using useState
+- Responsive UI styling
+- Deployed using Vercel
 
-## Technologies Used:
+## Tech Stack:
 
 - React
-- Vite
 - JavaScript
+- Vite
 - React Router DOM
 - CSS
-- VS Code
 - Git & GitHub
+- Vercel
 
-## Challenges Faced:
+## Setup Instructions:
 
-- Creating reusable React components
-- Implementing page routing
-- Managing state using useState
-- Organizing React project structure
+## 1. Clone the repository:
+Download the project from GitHub:
+git clone https://github.com/vijaya22356-maker/Week3-VertexMind-React-Task.git
+
+
+### 2. Open project folder
+cd Week3-VertexMind-React-Task
+
+
+### 3. Install dependencies
+npm install
+
+
+### 4. Start the developmen
+npm run dev
+
+## Live Demo:
+Vercel URL:
+https://week3-vertex-mind-react-task.vercel.app/
+npm run dev
 
 ## Outcome:
 
-Successfully built an interactive React application with reusable components, routing, and state management and uploaded it to GitHub.
+Successfully created and deployed an interactive React application with reusable components, routing, and state management.
+
