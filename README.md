@@ -1,16 +1,43 @@
-# React + Vite
+## VertexMind Frontend Internship - Mission 3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ ## Project Description:
 
-Currently, two official plugins are available:
+This project is developed as part of the VertexMind Frontend Internship Mission 3.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The application is built using React and Vite with reusable components, routing, and state management.
 
-## React Compiler
+## Features:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React + Vite setup
+- Reusable components
+  - Navbar
+  - Card
+  - Footer
+- Multiple pages using React Router
+  - Home
+  - About
+  - Project Detail
+- Navigation between pages
+- Like button using useState
+- Responsive styling using CSS
 
-## Expanding the ESLint configuration
+## Technologies Used:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- React Router DOM
+- CSS
+- VS Code
+- Git & GitHub
+
+## Challenges Faced:
+
+- Creating reusable React components
+- Implementing page routing
+- Managing state using useState
+- Organizing React project structure
+
+## Outcome:
+
+Successfully built an interactive React application with reusable components, routing, and state management and uploaded it to GitHub.
