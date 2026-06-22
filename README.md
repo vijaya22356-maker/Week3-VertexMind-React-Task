@@ -67,6 +67,6 @@ Successfully created and deployed an interactive React application with reusable
 ### About Page
 ![About Page](public/screenshots/About.png)
 
-### Projects Page
-![Projects Page](public/screenshots/Projects.png)
+### Project Page
+![Project Page](public/screenshots/Project.png)
 
