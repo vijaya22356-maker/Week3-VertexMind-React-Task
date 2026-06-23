@@ -70,3 +70,6 @@ Successfully created and deployed an interactive React application with reusable
 ### Project Page
 ![Project Page](public/screenshots/Project.png)
 
+## Demo video link using loom:
+https://www.loom.com/share/9334154e12c94b27950d2d625c67876d
+
